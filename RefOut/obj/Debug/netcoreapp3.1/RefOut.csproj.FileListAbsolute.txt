@@ -1,0 +1,14 @@
+C:\Users\Orxan477\source\repos\RefOut\RefOut\bin\Debug\netcoreapp3.1\RefOut.exe
+C:\Users\Orxan477\source\repos\RefOut\RefOut\bin\Debug\netcoreapp3.1\RefOut.deps.json
+C:\Users\Orxan477\source\repos\RefOut\RefOut\bin\Debug\netcoreapp3.1\RefOut.runtimeconfig.json
+C:\Users\Orxan477\source\repos\RefOut\RefOut\bin\Debug\netcoreapp3.1\RefOut.runtimeconfig.dev.json
+C:\Users\Orxan477\source\repos\RefOut\RefOut\bin\Debug\netcoreapp3.1\RefOut.dll
+C:\Users\Orxan477\source\repos\RefOut\RefOut\bin\Debug\netcoreapp3.1\RefOut.pdb
+C:\Users\Orxan477\source\repos\RefOut\RefOut\obj\Debug\netcoreapp3.1\RefOut.csproj.AssemblyReference.cache
+C:\Users\Orxan477\source\repos\RefOut\RefOut\obj\Debug\netcoreapp3.1\RefOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orxan477\source\repos\RefOut\RefOut\obj\Debug\netcoreapp3.1\RefOut.AssemblyInfoInputs.cache
+C:\Users\Orxan477\source\repos\RefOut\RefOut\obj\Debug\netcoreapp3.1\RefOut.AssemblyInfo.cs
+C:\Users\Orxan477\source\repos\RefOut\RefOut\obj\Debug\netcoreapp3.1\RefOut.csproj.CoreCompileInputs.cache
+C:\Users\Orxan477\source\repos\RefOut\RefOut\obj\Debug\netcoreapp3.1\RefOut.dll
+C:\Users\Orxan477\source\repos\RefOut\RefOut\obj\Debug\netcoreapp3.1\RefOut.pdb
+C:\Users\Orxan477\source\repos\RefOut\RefOut\obj\Debug\netcoreapp3.1\RefOut.genruntimeconfig.cache
